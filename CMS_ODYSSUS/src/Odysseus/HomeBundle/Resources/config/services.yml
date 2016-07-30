@@ -1,0 +1,7 @@
+parameters:
+#    odysseus_home.example.class: Odysseus\HomeBundle\Example
+
+services:
+#    odysseus_home.example:
+#        class: %odysseus_home.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

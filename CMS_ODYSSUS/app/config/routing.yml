@@ -1,0 +1,4 @@
+odysseus_home:
+    resource: "@OdysseusHomeBundle/Resources/config/routing.yml"
+    prefix:   /
+

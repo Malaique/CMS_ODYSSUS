@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/Users/Lenovo/Documents/NetBeansProjects/CMS_ODYSSUS/CMS_ODYSSUS/CMS_ODYSSUS/app/config/routing_dev.yml'
